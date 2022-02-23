@@ -1,6 +1,10 @@
 # visualization_sample
 This is a sample of the Data Analysis and Visualizations I did this year. See Read me for more information!
 
+"CS234_A05_part1.ipynb" 
+This notebook scrapes Wikipedia edits over time for 4 artists, and uses plotly to visualize
+the edits that have been made over time. 
+
 "Assignment 4_Part2_T testing_YALCIN.ipynb"
 This notebook scrapes Wikipedia for list of American actresses, then it tests the hypothesis: 
 'Do actresses born in the 1950s have longer pages compared to actresses born in the 1980s?'
