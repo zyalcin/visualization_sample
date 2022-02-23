@@ -1,6 +1,12 @@
 # visualization_sample
 This is a sample of the Data Analysis and Visualizations I did this year. See Read me for more information!
 
+"CS234_A06.ipynb" 
+This notebook collects data from the census and data collected every year for baby names. It 
+combines all the information in dataframes and tracks the featurs of each name (such as length,
+vowels used etc.) Then it implements sklearn to guess the gender of a baby name based on the 
+features of the name. 
+
 "CS234_A05_part1.ipynb" 
 This notebook scrapes Wikipedia edits over time for 4 artists, and uses plotly to visualize
 the edits that have been made over time. 
